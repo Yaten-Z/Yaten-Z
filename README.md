@@ -1,6 +1,9 @@
 <div id="title" align=center>
 
 ## 这里是 风与路人 的 Github 主页！
+
+你是第 ![Visitor Count](https://profile-counter.glitch.me/LINMOH/count.svg) 位访客！
+
 **不想学习(o-ωｑ)).oO 困**
 
 
