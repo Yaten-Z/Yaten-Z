@@ -2,7 +2,7 @@
 
 ## 这里是 风与路人 的 Github 主页！
 
-你是第 ![Visitor Count](https://profile-counter.glitch.me/Yaten-Z/count.svg) 位访客！
+看看网站：[Here](https://yaten.xyz)
 
 **不想学习(o-ωｑ)).oO 困**
 
