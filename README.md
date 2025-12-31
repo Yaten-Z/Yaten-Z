@@ -19,9 +19,7 @@ I continuously engage in various projects to enhance my development skills. Feel
 
 ## My Blog
 
-I write articles and notes on my personal blog about development practices, learning insights, and technical explorations. Feel free to visit:
-
-[Yaten-Z's Blog](https://blog.yaten.xyz)
+I write articles and notes on my personal blog about development practices, learning insights, and technical explorations. Feel free to visit: [Yaten-Z's Blog](https://blog.yaten.xyz)
 
 ## Get in Touch
 
@@ -31,5 +29,9 @@ If you wish to engage in academic exchange or discussion with me, feel free to r
 * QQ: 2635802854
 * Blog: [https://blog.yaten.xyz](https://blog.yaten.xyz)
 
+
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tagesschrift\&pause=1000\&color=F745A5\&center=true\&vCenter=true\&width=435\&lines=Thanks+for+visting!;See+you+next+time!)](https://git.io/typing-svg)
 
+</div>
