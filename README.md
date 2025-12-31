@@ -25,7 +25,7 @@ I write articles and notes on my personal blog about development practices, lear
 
 If you wish to engage in academic exchange or discussion with me, feel free to reach out anytime through the following channels:
 
-* Email: [Yaten-Z@outlook.com](mailto:Yaten-Z@outlook.com) or [2635802854@qq.com](mailto:2635802854@qq.com)
+* Email: [Yaten-Z@outlook.com](mailto:Yaten-Z@outlook.com) or [Yaten-Z@qq.com](mailto:Yaten-Z@qq.com)
 * QQ: 2635802854
 * Blog: [https://blog.yaten.xyz](https://blog.yaten.xyz)
 
