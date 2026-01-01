@@ -13,7 +13,7 @@ I continuously engage in various projects to enhance my development skills. Feel
 
 <div align='center'>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,c,github,vscode,astro,arduino,md,notion,nuxtjs\&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,c,github,vscode,astro,arduino,md,notion,nodejs\&perline=7)](https://skillicons.dev)
 
 </div>
 
